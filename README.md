@@ -1,1 +1,2 @@
-# leetcode
+#Leetcode
+This contains leetcode solutions.
